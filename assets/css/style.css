@@ -1,5 +1,4 @@
 *{
-    padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
@@ -8,6 +7,7 @@ header{
     background-color: rgba(78,160,255,255);
     height: 200px;
     background-image: url(../img/pattern.png);
+
 }
 
 #logo{
