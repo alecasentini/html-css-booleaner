@@ -66,3 +66,31 @@ thead{
 #special{
     width: 50%;
 }
+
+footer{
+    margin: 10px;
+}
+
+h3{
+    color: grey;
+}
+
+#monitor{
+    height: 208px;
+    width: 312px;
+    background-image: url(../img/monitor.jpg);
+    margin-top: 10px;
+}
+
+#grafico{
+    height: 207px;
+    width: 311px;
+    background-image: url(../img/graph.jpg);
+    margin-top: 10px;
+}
+
+#monitor, #grafico{
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
