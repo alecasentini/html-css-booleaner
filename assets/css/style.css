@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 header{
     background-color: rgba(78,160,255,255);
     height: 200px;
@@ -18,6 +19,7 @@ header{
 main{
     margin: 10px;
 }
+
 h1{
     font-size: 70px;
     margin-bottom: 1px ;
@@ -31,7 +33,9 @@ h1{
 #autore{
     color: rgba(78,160,255,255);
 }
+
 .data{
     color: gray;
     font-size: 20px;
 }
+
