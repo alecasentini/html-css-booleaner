@@ -17,7 +17,9 @@ header{
 }
 
 main{
-    margin: 10px;
+    width: 80%;
+    margin: auto;
+
 }
 
 h1{
